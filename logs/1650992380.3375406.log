@@ -1,0 +1,59 @@
+[LOGS]
+[2022-04-26 11:59:40,482] [MainProcess/MainThread/INFO] (main.py/__init__) System Info: Python: CPython 3.8.10
+System: x86_64 Linux 5.13.0-40-generic #45~20.04.1-Ubuntu SMP Mon Apr 4 09:38:31 UTC 2022
+CPU: x86_64
+Display: Radeon RX 580 Series (POLARIS10, DRM 3.41.0, 5.13.0-40-generic, LLVM 12.0.0) 
+4.6 (Core Profile) Mesa 21.2.6
+[2022-04-26 11:59:40,483] [MainProcess/MainThread/INFO] (main.py/__init__) Compiling Shaders
+[2022-04-26 11:59:40,488] [MainProcess/MainThread/INFO] (main.py/__init__) Creating Texture Array
+[2022-04-26 11:59:40,488] [MainProcess/MainThread/INFO] (world.py/__init__) Loading block models
+[2022-04-26 11:59:40,749] [MainProcess/MainThread/INFO] (save.py/load) Loading world
+[2022-04-26 11:59:46,651] [MainProcess/MainThread/INFO] (world.py/__init__) Lighting chunks
+[2022-04-26 11:59:58,911] [MainProcess/MainThread/INFO] (world.py/__init__) Generating chunks
+[2022-04-26 11:59:58,923] [MainProcess/MainThread/INFO] (main.py/__init__) Setting up player & camera
+[2022-04-26 11:59:58,937] [MainProcess/MainThread/INFO] (main.py/__init__) Loading audio
+[2022-04-26 11:59:59,043] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 852 * 480
+[2022-04-26 11:59:59,058] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 852 * 481
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 852 * 484
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 855 * 490
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 856 * 495
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 859 * 505
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 860 * 512
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 861 * 520
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 861 * 525
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 864 * 534
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 865 * 538
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 868 * 546
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 871 * 550
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 874 * 553
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 878 * 557
+[2022-04-26 11:59:59,069] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 883 * 560
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 886 * 561
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 891 * 562
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 899 * 565
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 905 * 567
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 920 * 572
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 931 * 575
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 944 * 578
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 954 * 581
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 968 * 586
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 983 * 589
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1002 * 595
+[2022-04-26 11:59:59,070] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1012 * 597
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1032 * 603
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1059 * 610
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1107 * 620
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1123 * 622
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1141 * 627
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1156 * 631
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1212 * 645
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1238 * 651
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1261 * 657
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1274 * 659
+[2022-04-26 11:59:59,071] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1297 * 667
+[2022-04-26 11:59:59,072] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1303 * 669
+[2022-04-26 11:59:59,072] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1306 * 669
+[2022-04-26 11:59:59,072] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1320 * 673
+[2022-04-26 11:59:59,072] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1331 * 677
+[2022-04-26 11:59:59,072] [MainProcess/MainThread/INFO] (main.py/on_resize) Resize 1337 * 677
+[2022-04-26 12:00:33,636] [MainProcess/MainThread/INFO] (main.py/on_close) Deleting media player
